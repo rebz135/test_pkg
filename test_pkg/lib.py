@@ -1,2 +1,2 @@
-try_me(name):
+def try_me(name):
     return f'hello {name}'
